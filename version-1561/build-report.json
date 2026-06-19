@@ -1,0 +1,14 @@
+{
+  "site_title": "2026亚洲视频-热门好看的视频大全-高清视频在线观看",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_pages": 2000,
+  "cover_images": 150,
+  "pages": [
+    "index.html",
+    "categories.html",
+    "movies.html",
+    "rank.html",
+    "search.html"
+  ]
+}
